@@ -3,8 +3,8 @@
 
 Version 1.0.0
 
-Unity Asset Store: https://assetstore.unity.com/packages/slug/207960
-GitHub: https://github.com/xtaltools/DefineSymbolsManager
+- Unity Asset Store: https://assetstore.unity.com/
+- GitHub: https://github.com/xtaltools/DefineSymbolsManager
 
 ## What is it?
 
