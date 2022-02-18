@@ -40,10 +40,10 @@ This can be used to switch between development builds, release builds, etc.
 For instructions on how to launch a batch build, please refer to the following page.
 https://docs.unity3d.com/Manual/CommandLineArguments.html
 
-| Argument                            | Description                                                                                              |
-|-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| -define <SYMBOL1,SYMBOL2>           | Enables the specified DefineSymbol. Specify the value separated by a comma or semicolon.　ex) `-define ENABLE_DEBUGMENU` |
-| -defineSymoblProfile <Profile Name> | Load and Set the Profile Settings                                                                        |
+| Argument                             | Description                                                                                                             |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| -define <SYMBOL1,SYMBOL2>            | Enables the specified DefineSymbol. Specify the value separated by a comma or semicolon.　ex) `-define ENABLE_DEBUGMENU` |
+| -defineSymoblProfile \<Profile Name> | Change current Profile and Set the DefineSymbol states.|
 
 
 ### Usage from scripts
